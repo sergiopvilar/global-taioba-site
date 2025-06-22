@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "5670a1d6-44f1-4d71-babd-43e9b665f177": {
@@ -6,12 +15,12 @@
         "6f7f6d0f-1313-46fa-8d8d-b26d5a6e2b5e": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/gilsons.jpg",
+            "image": "shopify://shop_images/gilsons.jpg",
             "heading": "Gilsons",
             "heading_size": "h0",
             "subheading": "Gilsons are back to Taioba Records! We found very few copies of \"Pra Gente Acordar\" in our stock.",
             "button_label": "Get yours now!",
-            "link": "shopify:\/\/products\/gilsons-pra-gente-acordar-blue-vinyl",
+            "link": "shopify://products/gilsons-pra-gente-acordar-blue-vinyl",
             "button_style_secondary": false,
             "box_align": "middle-right",
             "show_text_box": false,
@@ -24,12 +33,12 @@
         "d5bbcc44-5814-4048-ba33-50bcb072b264": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/joyce.jpg",
+            "image": "shopify://shop_images/joyce.jpg",
             "heading": "Joyce",
             "heading_size": "h1",
             "subheading": "The iconic \"Passarinho Urbano\" released by Três Selos subscription club is available today!",
             "button_label": "Get yours now",
-            "link": "shopify:\/\/products\/joyce-passarinho-urbano-vinil-lp-preto",
+            "link": "shopify://products/joyce-passarinho-urbano-vinil-lp-preto",
             "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": false,
@@ -42,12 +51,12 @@
         "82d231a0-2613-44e7-b789-7433d2b746d3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/seu_jorge.jpg",
+            "image": "shopify://shop_images/seu_jorge.jpg",
             "heading": "Seu Jorge",
             "heading_size": "h1",
             "subheading": "For the first time on vinyl, his second studio album, \"Cru\" is available on limited edition.",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/products\/seu-jorge-cru-vinil-lp-preto",
+            "link": "shopify://products/seu-jorge-cru-lp-67565bdca0467",
             "button_style_secondary": false,
             "box_align": "middle-right",
             "show_text_box": false,
@@ -79,14 +88,14 @@
         "26179951-dbdc-4b70-a70d-1884ad409356": {
           "type": "heading",
           "settings": {
-            "heading": "<p>New Arrivals<\/p>",
+            "heading": "<p>New Arrivals</p>",
             "heading_size": "h1"
           }
         },
         "45562429-f59d-465b-977c-dceb688a1edf": {
           "type": "text",
           "settings": {
-            "text": "<p>Fresh off the press: Check out our latest arrivals!<\/p>"
+            "text": "<p>Fresh off the press: Check out our latest arrivals!</p>"
           }
         }
       },
@@ -136,21 +145,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Brazilian music to the entire world<\/p>",
+            "heading": "<p>Brazilian music to the entire world</p>",
             "heading_size": "h1"
           }
         },
         "9879e672-ae2b-4ee7-bf84-e8759440273f": {
           "type": "text",
           "settings": {
-            "text": "<p>We offer a wide selection of exclusively released Brazilian vinyl records that can be shipped to more than 65 countries! Whether you're looking for the latest releases or classic favorites, you'll find it here. So come check out our selection and get the vinyl records you love delivered right to your doorstep!<\/p>"
+            "text": "<p>We offer a wide selection of exclusively released Brazilian vinyl records that can be shipped to more than 65 countries! Whether you're looking for the latest releases or classic favorites, you'll find it here. So come check out our selection and get the vinyl records you love delivered right to your doorstep!</p>"
           }
         },
         "157c8b60-04fb-4dee-a68c-bb7aeb76d19b": {
           "type": "button",
           "settings": {
             "button_label": "Learn More",
-            "button_link": "shopify:\/\/pages\/about-us",
+            "button_link": "shopify://pages/about-us",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -178,14 +187,14 @@
         "4d72b391-3ae3-4732-87a1-daadadea850b": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Exclusive Brazilian Beats<\/p>",
+            "heading": "<p>Exclusive Brazilian Beats</p>",
             "heading_size": "h1"
           }
         },
         "e2ddc085-87ad-423c-8b5b-5759450db1e2": {
           "type": "text",
           "settings": {
-            "text": "<p>Dive into the rich tapestry of Brazilian music with our handpicked selection of limited edition vinyls. <\/p>"
+            "text": "<p>Dive into the rich tapestry of Brazilian music with our handpicked selection of limited edition vinyls. </p>"
           }
         }
       },
@@ -269,13 +278,12 @@
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to spin the latest. Subscribe now and let the rhythms of Brazil's freshest vinyl releases land directly in your mailbox. Never miss a beat!<\/p>"
+            "text": "<p>Be the first to spin the latest. Subscribe now and let the rhythms of Brazil's freshest vinyl releases land directly in your mailbox. Never miss a beat!</p>"
           }
         },
         "form": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -315,14 +323,14 @@
         "57cd8a97-a82e-423c-a42c-ae2b10dae230": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Enter the world of Vinyl<\/p>",
+            "heading": "<p>Enter the world of Vinyl</p>",
             "heading_size": "h1"
           }
         },
         "38e09750-7a08-4a30-8969-3dc95d808caa": {
           "type": "text",
           "settings": {
-            "text": "<p>Journey through Brazil's vibrant musical landscape on vinyl with our curated blog. From legendary classics to emerging beats, we share stories, insights, tips, and the rhythms that make our hearts sway.<\/p>"
+            "text": "<p>Journey through Brazil's vibrant musical landscape on vinyl with our curated blog. From legendary classics to emerging beats, we share stories, insights, tips, and the rhythms that make our hearts sway.</p>"
           }
         }
       },
